@@ -1,4 +1,4 @@
-# Cross-correlation of instantaneous amplitudes (under construction)
+# Cross-correlation of instantaneous amplitudes
 
 ## Description
 
